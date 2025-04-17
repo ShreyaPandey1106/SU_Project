@@ -101,7 +101,6 @@ pip install torch torchaudio transformers datasets sacrebleu jiwer editdistance 
 | Metric | Description                                |
 |--------|--------------------------------------------|
 | BLEU   | Translation quality                        |
-| CHRF   | Character-level F-score                    |
 | WER    | Word Error Rate (optional)                 |
 | PER    | Phoneme Error Rate (optional)              |
 
