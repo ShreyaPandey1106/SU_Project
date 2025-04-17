@@ -35,7 +35,7 @@ su_project/
 
 ## Datasets
 
-### ✅ High-Resource Languages (HRLs)
+### High-Resource Languages (HRLs)
 - [Common Voice](https://huggingface.co/datasets/mozilla-foundation/common_voice_13_0)
 
 
@@ -96,7 +96,7 @@ pip install torch torchaudio transformers datasets sacrebleu jiwer editdistance 
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 | Metric | Description                                |
 |--------|--------------------------------------------|
