@@ -11,7 +11,7 @@ flowchart TD
   A[Raw LRL Speech] --> B[Self-Supervised Feature Extraction]
   B --> C[Pseudo-Phoneme Discovery]
   C --> D[Phoneme Space Alignment]
-  D --> E[Universal Decoder (Translation)]
+  D --> E[Universal Decoder for Translation]
   E --> F[HRL Text Output]
 ```
 
