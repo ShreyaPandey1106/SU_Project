@@ -1,8 +1,5 @@
 # Project: Cross-Lingual Transfer Learning for Low-Resource Language Translation
 
-
-# 🌍 Phoneme-Aware Cross-Lingual Transfer Learning for Low-Resource Language Translation (Unsupervised)
-
 This project implements an end-to-end unsupervised pipeline to perform **speech-to-text translation for low-resource languages (LRLs)** by leveraging **cross-lingual transfer learning** from high-resource languages (HRLs). It uses **phoneme-like unit discovery**, **self-supervised speech embeddings**, and a **universal decoder** trained only on HRL data.
 
 ---
